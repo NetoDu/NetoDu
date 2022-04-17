@@ -1,9 +1,9 @@
-Du has joined the server!👋🏻
+# Du has joined the server!👋🏻
 
-- Network Analyst 📡
+- Network Analyst 📡 
 - Computer Engineering student 💻
 
 
 
 
-just looking around ..
+###### *just looking around ..*
